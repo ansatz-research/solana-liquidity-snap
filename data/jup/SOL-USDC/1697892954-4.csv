@@ -1,0 +1,13 @@
+,5000,10000,50000,100000
+inputMint,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112
+inAmount,5000,10000,50000,100000
+outputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+outAmount,146,292,1463,2926
+otherAmountThreshold,146,292,1462,2924
+swapMode,ExactIn,ExactIn,ExactIn,ExactIn
+slippageBps,10,10,10,10
+platformFee,,,,
+priceImpactPct,0.0024007580799999999999999986,0,0,0
+routePlan,"[{'swapInfo': {'ammKey': 'GoafYfp3fxg5vtn6wSi8uDniJ6vAbX89vHksDHSTj841', 'label': 'Lifinity V1', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '5000', 'outAmount': '146', 'feeAmount': '2', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'GoafYfp3fxg5vtn6wSi8uDniJ6vAbX89vHksDHSTj841', 'label': 'Lifinity V1', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '10000', 'outAmount': '292', 'feeAmount': '5', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'GoafYfp3fxg5vtn6wSi8uDniJ6vAbX89vHksDHSTj841', 'label': 'Lifinity V1', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '50000', 'outAmount': '1463', 'feeAmount': '27', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'GoafYfp3fxg5vtn6wSi8uDniJ6vAbX89vHksDHSTj841', 'label': 'Lifinity V1', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '100000', 'outAmount': '2926', 'feeAmount': '55', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]"
+contextSlot,225078817,225078276,225079569,225079570
+timeTaken,0.110804278,0.103736764,0.16107049,0.148535421

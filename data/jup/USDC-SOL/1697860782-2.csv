@@ -1,0 +1,13 @@
+,5000,10000,50000,100000
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+inAmount,5000,10000,50000,100000
+outputMint,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112
+outAmount,186495,372991,1864958,3729916
+otherAmountThreshold,186309,372619,1863094,3726187
+swapMode,ExactIn,ExactIn,ExactIn,ExactIn
+slippageBps,10,10,10,10
+platformFee,,,,
+priceImpactPct,0,0,0,0
+routePlan,"[{'swapInfo': {'ammKey': 'FpCMFDFGYotvufJ7HrFHsWEiiQCGbkLCtwHiDnh7o28Q', 'label': 'Whirlpool', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '5000', 'outAmount': '186495', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'FpCMFDFGYotvufJ7HrFHsWEiiQCGbkLCtwHiDnh7o28Q', 'label': 'Whirlpool', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '10000', 'outAmount': '372991', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'FpCMFDFGYotvufJ7HrFHsWEiiQCGbkLCtwHiDnh7o28Q', 'label': 'Whirlpool', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '50000', 'outAmount': '1864958', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'FpCMFDFGYotvufJ7HrFHsWEiiQCGbkLCtwHiDnh7o28Q', 'label': 'Whirlpool', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '100000', 'outAmount': '3729916', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]"
+contextSlot,225002655,225002655,225002659,225002656
+timeTaken,0.096284615,0.125813643,0.113765993,0.107276693

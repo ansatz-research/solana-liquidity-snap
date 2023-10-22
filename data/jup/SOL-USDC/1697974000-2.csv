@@ -1,0 +1,13 @@
+,5000,10000,50000,100000
+inputMint,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112
+inAmount,5000,10000,50000,100000
+outputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+outAmount,142,285,1425,2908
+otherAmountThreshold,142,285,1424,2906
+swapMode,ExactIn,ExactIn,ExactIn,ExactIn
+slippageBps,10,10,10,10
+platformFee,,,,
+priceImpactPct,0.0036636967200000000000000014,0.000375892150000000000,0.000374202100000000000,0
+routePlan,"[{'swapInfo': {'ammKey': '4GUniSDrCAZR3sKtLa1AWC8oyYubZeKJQ8KraQmy3Wt5', 'label': 'Aldrin', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '5000', 'outAmount': '142', 'feeAmount': '15', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'FpCMFDFGYotvufJ7HrFHsWEiiQCGbkLCtwHiDnh7o28Q', 'label': 'Whirlpool', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '10000', 'outAmount': '285', 'feeAmount': '0', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'FpCMFDFGYotvufJ7HrFHsWEiiQCGbkLCtwHiDnh7o28Q', 'label': 'Whirlpool', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '50000', 'outAmount': '1425', 'feeAmount': '0', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]","[{'swapInfo': {'ammKey': '7Mu9zK6qV3wGp5deSkhCeWqaDnL3kdD4gKL87ui6GtmX', 'label': 'Raydium', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx', 'inAmount': '100000', 'outAmount': '159316398', 'feeAmount': '250', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}, {'swapInfo': {'ammKey': '3V5sjXj1mrWjjB1Xt6Xwp554QwHE5fppGSxbk4GzAtEW', 'label': 'Orca V2', 'inputMint': 'ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '159316398', 'outAmount': '2908', 'feeAmount': '477948', 'feeMint': 'ATLASXmbPQxBUYbxPsV97usA3fPQYEqzQBUHgiFCUsXx'}, 'percent': 100}]"
+contextSlot,225274235,225274215,225274236,225274005
+timeTaken,0.095558659,0.131921214,0.102731254,0.103805093

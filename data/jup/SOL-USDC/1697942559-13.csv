@@ -1,0 +1,13 @@
+,5000,50000,100000
+inputMint,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112
+inAmount,5000,50000,100000
+outputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+outAmount,148,1483,2956
+otherAmountThreshold,148,1482,2954
+swapMode,ExactIn,ExactIn,ExactIn
+slippageBps,10,10,10
+platformFee,,,
+priceImpactPct,0.0010070033600000000000000005,0,0
+routePlan,"[{'swapInfo': {'ammKey': 'GoafYfp3fxg5vtn6wSi8uDniJ6vAbX89vHksDHSTj841', 'label': 'Lifinity V1', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '5000', 'outAmount': '148', 'feeAmount': '2', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'LiDoU8ymvYptqxenJ4YpcURBchn4ef63tcbdznBCKJh', 'label': 'Mercurial', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': '7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj', 'inAmount': '50000', 'outAmount': '43983', 'feeAmount': '4935', 'feeMint': '7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj'}, 'percent': 100}, {'swapInfo': {'ammKey': '41PGcyLdN1uuvoavo3snZbC14cntPpsS1TKWddbsbEDg', 'label': 'Raydium CLMM', 'inputMint': '7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '43983', 'outAmount': '1483', 'feeAmount': '20', 'feeMint': '7dHbWXmci3dT8UFYWYZweBLXgycu7Y3iL6trKn1Y7ARj'}, 'percent': 100}]","[{'swapInfo': {'ammKey': '21gTfxAnhUDjJGZJDkTXctGFKT8TeiXx6pN1CEg9K1uW', 'label': 'Whirlpool', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '100000', 'outAmount': '2956', 'feeAmount': '4', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]"
+contextSlot,225198499,225197860,225196964
+timeTaken,0.084278045,0.117937199,0.109463936

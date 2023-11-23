@@ -1,0 +1,13 @@
+,3
+contextSlot,231749018
+inAmount,100000000000
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+otherAmountThreshold,1732444580843
+outAmount,1734178759602
+outputMint,So11111111111111111111111111111111111111112
+platformFee,
+priceImpactPct,0.000885853496742137619433037
+routePlan,"[{'swapInfo': {'ammKey': 'xVkAitd9gFDPr3uhLCBPTDrFSvPw76ogEFKwG8bLf1P', 'label': 'GooseFX', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn', 'inAmount': '60000000000', 'outAmount': '971331065784', 'feeAmount': '972303369', 'feeMint': 'J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn'}, 'percent': 60}, {'swapInfo': {'ammKey': 'Hp53XEtt4S8SvPCXarsLSdGfZBuUr5mMmZmX2DRNXQKp', 'label': 'Whirlpool', 'inputMint': 'J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '971331065784', 'outAmount': '1040394354746', 'feeAmount': '2913992', 'feeMint': 'J1toso1uCk3RLmjorhTtrVwY9HJ7X8V9yYac6Y7kGCPn'}, 'percent': 100}, {'swapInfo': {'ammKey': '4DoNfFBfF7UokCC2FQzriy7yHK6DY6NVdYpuekQ5pRgg', 'label': 'Phoenix', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '20000000000', 'outAmount': '346874611200', 'feeAmount': '69388800', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 20}, {'swapInfo': {'ammKey': '7qbRF6YsyGuLUVs6Y1q64bdVrfe4ZcUUz1JRdoVNUJnm', 'label': 'Whirlpool', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '20000000000', 'outAmount': '346909793656', 'feeAmount': '300000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 20}]"
+slippageBps,10
+swapMode,ExactIn
+timeTaken,0.073253751

@@ -1,0 +1,13 @@
+,1
+contextSlot,244054612
+inAmount,10000000000
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+otherAmountThreshold,115397441713
+outAmount,115512954667
+outputMint,So11111111111111111111111111111111111111112
+platformFee,
+priceImpactPct,0.0387356756825894352188536336
+routePlan,"[{'swapInfo': {'ammKey': 'DrRd8gYMJu9XGxLhwTCPdHNLXCKHsxJtMpbn62YqmwQe', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '2000000000', 'outAmount': '23103314905', 'feeAmount': '400000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 20}, {'swapInfo': {'ammKey': 'AcU6ZBSM3qaEJUeoJYXwAwMqcffmi5NYoFswdtWmXTKh', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1', 'inAmount': '2000000000', 'outAmount': '20909460604', 'feeAmount': '400000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 20}, {'swapInfo': {'ammKey': '2LCn3rW2YbvXMUaVahBuKJVJHARDYyLxJyhmSgq8mLJL', 'label': 'Crema', 'inputMint': 'bSo13r4TkiE4KumL71LsHTPpL2euBYLFx6h9HP3piy1', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '20909460604', 'outAmount': '23101170946', 'feeAmount': '2090946', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}, {'swapInfo': {'ammKey': '86eq4kdBkUCHGdCC2SfcqGHRCBGhp2M89aCmuvvxaXsm', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '6000000000', 'outAmount': '69308468816', 'feeAmount': '1200000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 60}]"
+slippageBps,10
+swapMode,ExactIn
+timeTaken,0.150778345

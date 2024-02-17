@@ -1,0 +1,13 @@
+,0
+contextSlot,248814183
+inAmount,45909466531
+inputMint,So11111111111111111111111111111111111111112
+otherAmountThreshold,5005845128
+outAmount,5010855983
+outputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+platformFee,
+priceImpactPct,0
+routePlan,"[{'swapInfo': {'ammKey': '71GHcjkwmtM7HSWBuqzjEp96prcNNwu1wpUywXiytREU', 'label': 'Lifinity V2', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '45909466531', 'outAmount': '5010855983', 'feeAmount': '9181893', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 100}]"
+slippageBps,10
+swapMode,ExactIn
+timeTaken,0.080004034

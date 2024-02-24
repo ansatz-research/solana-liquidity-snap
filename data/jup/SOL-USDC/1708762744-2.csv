@@ -1,0 +1,13 @@
+,0
+contextSlot,250122699
+inAmount,5000000000
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+otherAmountThreshold,48957264788
+outAmount,49006271059
+outputMint,So11111111111111111111111111111111111111112
+platformFee,
+priceImpactPct,0.0012530721880467471546207742
+routePlan,"[{'swapInfo': {'ammKey': 'DbTk2SNKWxu9TJbPzmK9HcQCAmraBCFb5VMo8Svwh34z', 'label': 'Meteora DLMM', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': '27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4', 'inAmount': '5000000000', 'outAmount': '2270675512', 'feeAmount': '500000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}, {'swapInfo': {'ammKey': 'HVXEughPY49U32WwWpDAAR6vena19yFWqSZ5kfs6F5Tw', 'label': 'Meteora DLMM', 'inputMint': '27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '2270675512', 'outAmount': '49006271059', 'feeAmount': '1135767', 'feeMint': '27G8MtK7VtTcCHkpASjSDdkWWYfoqT6ggEuKidVJidD4'}, 'percent': 100}]"
+slippageBps,10
+swapMode,ExactIn
+timeTaken,0.313155762

@@ -1,0 +1,13 @@
+,0
+contextSlot,258356198
+inAmount,26487259628
+inputMint,So11111111111111111111111111111111111111112
+otherAmountThreshold,4926020923
+outAmount,4930951874
+outputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+platformFee,
+priceImpactPct,0
+routePlan,"[{'swapInfo': {'ammKey': '3msVd34R5KxonDzyNSV5nT19UtUeJ2RF1NaQhvVPNLxL', 'label': 'Meteora DLMM', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '13243629815', 'outAmount': '2465704473', 'feeAmount': '1475535', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 50}, {'swapInfo': {'ammKey': '71GHcjkwmtM7HSWBuqzjEp96prcNNwu1wpUywXiytREU', 'label': 'Lifinity V2', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '10594903851', 'outAmount': '1972086404', 'feeAmount': '2118980', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 39}, {'swapInfo': {'ammKey': '5BKxfWMbmYBAEWvyPZS9esPducUba9GqyMjtLCfbaqyF', 'label': 'Meteora DLMM', 'inputMint': 'So11111111111111111111111111111111111111112', 'outputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'inAmount': '2648725962', 'outAmount': '493160997', 'feeAmount': '570200', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 11}]"
+slippageBps,10
+swapMode,ExactIn
+timeTaken,0.169197169

@@ -1,0 +1,13 @@
+,1,2
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+inAmount,10000000000,50000000000
+outputMint,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112
+outAmount,57286706265,286356817180
+otherAmountThreshold,57229419559,286070460363
+swapMode,ExactIn,ExactIn
+slippageBps,10,10
+platformFee,,
+priceImpactPct,0.003906613457951913900311314,0.0041733924629631133357760962
+routePlan,"[{'swapInfo': {'ammKey': 'Cx8eWxJAaCQAFVmv1mP7B2cVie2BnkR7opP8vUh23Wcr', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '3000000000', 'outAmount': '17186289261', 'feeAmount': '600000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 30}, {'swapInfo': {'ammKey': 'DrRd8gYMJu9XGxLhwTCPdHNLXCKHsxJtMpbn62YqmwQe', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '5000000000', 'outAmount': '28641809828', 'feeAmount': '1000000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 50}, {'swapInfo': {'ammKey': '3msVd34R5KxonDzyNSV5nT19UtUeJ2RF1NaQhvVPNLxL', 'label': 'Meteora DLMM', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '2000000000', 'outAmount': '11458607176', 'feeAmount': '215642', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 20}]","[{'swapInfo': {'ammKey': '9xKVNAgePuLmV4YGCtACLnUwvXhhLQ1bXdiJBvM1HpCQ', 'label': 'Phoenix', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '15000000000', 'outAmount': '85906015360', 'feeAmount': '17184640', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 30}, {'swapInfo': {'ammKey': 'HUaSnNPwGZv18W7XynTfrgTAUWSMMHsdGXXLaEQbnKJz', 'label': 'Phoenix', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '15000000000', 'outAmount': '85907815000', 'feeAmount': '17185000', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 30}, {'swapInfo': {'ammKey': '2k27E1d8GKjaD5DgJyjy8qzbR8GtSw9ZKSfDmNUVnUYK', 'label': 'Phoenix', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '20000000000', 'outAmount': '114542986820', 'feeAmount': '22913180', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 40}]"
+contextSlot,259506922,259506922
+timeTaken,0.251229262,0.288621675

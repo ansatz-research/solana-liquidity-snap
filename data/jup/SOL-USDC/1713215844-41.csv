@@ -1,0 +1,13 @@
+,2
+contextSlot,260334219
+inAmount,50000000000
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+otherAmountThreshold,364999872982
+outAmount,365365238220
+outputMint,So11111111111111111111111111111111111111112
+platformFee,
+priceImpactPct,0.0014235762792905185617803113
+routePlan,"[{'swapInfo': {'ammKey': 'Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE', 'label': 'Whirlpool', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '5000000000', 'outAmount': '36537949464', 'feeAmount': '199', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 10}, {'swapInfo': {'ammKey': '4DoNfFBfF7UokCC2FQzriy7yHK6DY6NVdYpuekQ5pRgg', 'label': 'Phoenix', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '25000000000', 'outAmount': '182679456800', 'feeAmount': '36543200', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 50}, {'swapInfo': {'ammKey': '4fuUiYxTQ6QCrdSq9ouBYcTM7bqSwYTSyLueGZLTy4T4', 'label': 'Whirlpool', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'inAmount': '20000000000', 'outAmount': '19994069258', 'feeAmount': '200', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 40}, {'swapInfo': {'ammKey': 'EiEAydLqSKFqRPpuwYoVxEJ6h9UZh9tsTaHgs4f8b8Z5', 'label': 'Lifinity V2', 'inputMint': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '19994069258', 'outAmount': '146147831956', 'feeAmount': '3998813', 'feeMint': 'Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB'}, 'percent': 100}]"
+slippageBps,10
+swapMode,ExactIn
+timeTaken,1.9574962820000001

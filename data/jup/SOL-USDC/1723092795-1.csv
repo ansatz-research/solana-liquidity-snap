@@ -1,0 +1,13 @@
+,0,1,2,3
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+inAmount,5000000000,10000000000,50000000000,100000000000
+outputMint,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112
+outAmount,32866600000,65733200000,328623000000,657202900000
+otherAmountThreshold,32833733400,65667466800,328294377000,656545697100
+swapMode,ExactIn,ExactIn,ExactIn,ExactIn
+slippageBps,10,10,10,10
+platformFee,,,,
+priceImpactPct,0,0.000669775583219829054589933,0,0
+routePlan,"[{'swapInfo': {'ammKey': 'AFgkED1FUVfBe2trPUDqSqK9QKd4stJrfzq5q1RwAFTa', 'label': 'OpenBook V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '5000000000', 'outAmount': '32866600000', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'AFgkED1FUVfBe2trPUDqSqK9QKd4stJrfzq5q1RwAFTa', 'label': 'OpenBook V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '10000000000', 'outAmount': '65733200000', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'AFgkED1FUVfBe2trPUDqSqK9QKd4stJrfzq5q1RwAFTa', 'label': 'OpenBook V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '50000000000', 'outAmount': '328623000000', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': 'AFgkED1FUVfBe2trPUDqSqK9QKd4stJrfzq5q1RwAFTa', 'label': 'OpenBook V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '100000000000', 'outAmount': '657202900000', 'feeAmount': '0', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]"
+contextSlot,282252930,282252930,282252934,282252932
+timeTaken,0.099311204,0.09824927,0.092371482,0.49865625

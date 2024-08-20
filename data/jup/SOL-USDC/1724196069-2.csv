@@ -1,0 +1,13 @@
+,0,1,2,3
+inputMint,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
+inAmount,5000000000,10000000000,50000000000,100000000000
+outputMint,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112,So11111111111111111111111111111111111111112
+outAmount,34945921866,69891843733,349458273210,698845518563
+otherAmountThreshold,34910975945,69821951890,349108814937,698146673045
+swapMode,ExactIn,ExactIn,ExactIn,ExactIn
+slippageBps,10,10,10,10
+platformFee,,,,
+priceImpactPct,0,0,0,0
+routePlan,"[{'swapInfo': {'ammKey': '86eq4kdBkUCHGdCC2SfcqGHRCBGhp2M89aCmuvvxaXsm', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '5000000000', 'outAmount': '34945921866', 'feeAmount': '1000000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': '86eq4kdBkUCHGdCC2SfcqGHRCBGhp2M89aCmuvvxaXsm', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '10000000000', 'outAmount': '69891843733', 'feeAmount': '2000000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': '86eq4kdBkUCHGdCC2SfcqGHRCBGhp2M89aCmuvvxaXsm', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '50000000000', 'outAmount': '349458273210', 'feeAmount': '10000000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 100}]","[{'swapInfo': {'ammKey': '2k27E1d8GKjaD5DgJyjy8qzbR8GtSw9ZKSfDmNUVnUYK', 'label': 'Phoenix', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '50000000000', 'outAmount': '349387408540', 'feeAmount': '69891460', 'feeMint': 'So11111111111111111111111111111111111111112'}, 'percent': 50}, {'swapInfo': {'ammKey': '86eq4kdBkUCHGdCC2SfcqGHRCBGhp2M89aCmuvvxaXsm', 'label': 'Lifinity V2', 'inputMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v', 'outputMint': 'So11111111111111111111111111111111111111112', 'inAmount': '50000000000', 'outAmount': '349458110023', 'feeAmount': '10000000', 'feeMint': 'EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v'}, 'percent': 50}]"
+contextSlot,284836680,284836680,284836682,284836686
+timeTaken,0.622955496,0.362302132,0.219452079,1.342160678
